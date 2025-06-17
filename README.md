@@ -1,5 +1,5 @@
 
-# 🛒 Amazon Laptop Price Tracker
+# 🛒 Amazon Laptop Price Tracker (Only Windows)
 
 A Python-based project that automatically scrapes the top 20 laptops from [Amazon.in](https://www.amazon.in), saves them to a CSV, sends email alerts on price drops, and displays the data in a Streamlit dashboard.
 
