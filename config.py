@@ -1,4 +1,4 @@
-#gitignore it
+
 
 
 ALERT_THRESHOLD = 45000  # ₹ value
